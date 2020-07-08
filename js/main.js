@@ -33,7 +33,7 @@ L.geoJSON(myLines, {
 
 
 var sampleSite = {
-    radius: 3,
+    radius: 4,
     fillColor: "red",
     color: "#000",
     weight: 1,
